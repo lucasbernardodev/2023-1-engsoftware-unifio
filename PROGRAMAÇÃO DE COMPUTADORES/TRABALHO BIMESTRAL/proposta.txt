@@ -1,0 +1,3 @@
+Resolver exercicios de lógica utilizando VISUALG, porém como o Github não 
+absorve a extensão para alguma linguagem relacionada à Portugol, irei repassar em 
+Javascript.
