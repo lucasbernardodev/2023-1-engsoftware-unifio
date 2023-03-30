@@ -1,4 +1,4 @@
-# 🎓👨‍💻 1° TERMO - ENGENHARIA DE SOFTWARE UNIFIO 👨‍💻🎓
+# 👨‍💻 1° TERMO - ENGENHARIA DE SOFTWARE UNIFIO 👨‍💻
 
 🖥️ Estudos do primeiro termo de Engenharia de Software na UNIFIO. Criado para documentar os aprendizados do curso. 🖥️
 
