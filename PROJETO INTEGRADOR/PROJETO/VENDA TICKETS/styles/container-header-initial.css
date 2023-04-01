@@ -1,0 +1,19 @@
+.container-header-initial {
+    display: flex;
+    border: 1px solid blue;
+    justify-content: space-between;
+    align-items: center;
+    height: 350px;
+}
+
+.container-header-title {
+    border: 1px solid red;
+    width: 50%;
+    height: 100%;
+}
+
+.container-header-img {
+    border: 1px solid red;
+    width: 50%;
+    height: 100%;
+}
