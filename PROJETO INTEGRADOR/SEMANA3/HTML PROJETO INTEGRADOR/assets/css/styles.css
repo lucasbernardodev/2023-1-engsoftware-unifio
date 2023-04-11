@@ -2,4 +2,7 @@
 @import "main.css";
 @import "footer.css";
 @import "article.css";
-@import "form.css";
+
+body {
+    width: 200vh;
+}
