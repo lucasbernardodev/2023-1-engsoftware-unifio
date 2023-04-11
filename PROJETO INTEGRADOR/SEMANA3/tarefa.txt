@@ -1,3 +1,0 @@
-Utilizando o VSCode faça:
-
-Implementar um site que contenha no mínimo 4 páginas HTML e navegação entre elas.
